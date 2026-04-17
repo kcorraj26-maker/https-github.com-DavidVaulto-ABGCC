@@ -207,10 +207,10 @@ export default function ContactPage() {
                         Email
                       </p>
                       <a
-                        href="mailto:info@gccb.org"
+                        href="mailto:info@agccb.org"
                         className="text-brand-blue text-[14px] hover:underline"
                       >
-                        info@gccb.org
+                        info@agccb.org
                       </a>
                     </div>
                   </div>
